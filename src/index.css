@@ -1,0 +1,28 @@
+.app {
+  margin: 0 auto;
+  max-width: 90%;
+  text-align: center;
+}
+
+.inputs {
+  margin-bottom: 50px;
+}
+
+.keyInput, .chordInput {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.keyInput input, .chordInput input {
+  font-size: 20px;
+}
+
+.chords {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.chords > div {
+  padding: 30px;
+}
